@@ -57,4 +57,3 @@ $filme = [
 
 
 echo $filme["ano"] . "\n";
-echo "\n";
